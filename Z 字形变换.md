@@ -1,5 +1,5 @@
 
-```
+```java
 //https://leetcode-cn.com/problems/zigzag-conversion/
 
 class Solution {
